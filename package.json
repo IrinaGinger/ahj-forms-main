@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IrinaGinger/ahj-forms.git"
+    "url": "git+ssh://git@github.com/IrinaGinger/ahj-forms-main.git"
   },
   "keywords": [
     ""
@@ -20,9 +20,9 @@
   "author": "Irina Kriuchkova",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IrinaGinger/ahj-forms/issues"
+    "url": "https://github.com/IrinaGinger/ahj-forms-main/issues"
   },
-  "homepage": "https://github.com/IrinaGinger/ahj-forms#readme",
+  "homepage": "https://github.com/IrinaGinger/ahj-forms-main#readme",
   "devDependencies": {
     "@babel/cli": "^7.24.8",
     "@babel/core": "^7.25.2",
